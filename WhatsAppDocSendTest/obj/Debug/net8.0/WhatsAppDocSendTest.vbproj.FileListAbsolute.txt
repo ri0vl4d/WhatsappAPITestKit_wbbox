@@ -1,0 +1,17 @@
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/obj/Debug/net8.0/WhatsAppDocSendTest.vbproj.AssemblyReference.cache
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/obj/Debug/net8.0/WhatsAppDocSendTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/obj/Debug/net8.0/WhatsAppDocSendTest.AssemblyInfoInputs.cache
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/obj/Debug/net8.0/WhatsAppDocSendTest.AssemblyInfo.vb
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/obj/Debug/net8.0/WhatsAppDocSendTest.vbproj.CoreCompileInputs.cache
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/bin/Debug/net8.0/WhatsAppDocSendTest
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/bin/Debug/net8.0/WhatsAppDocSendTest.deps.json
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/bin/Debug/net8.0/WhatsAppDocSendTest.runtimeconfig.json
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/bin/Debug/net8.0/WhatsAppDocSendTest.dll
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/bin/Debug/net8.0/WhatsAppDocSendTest.pdb
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/obj/Debug/net8.0/WhatsAppDocSendTest.vbproj.CopyComplete
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/obj/Debug/net8.0/WhatsAppDocSendTest.dll
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/obj/Debug/net8.0/refint/WhatsAppDocSendTest.dll
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/obj/Debug/net8.0/WhatsAppDocSendTest.pdb
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/obj/Debug/net8.0/WhatsAppDocSendTest.genruntimeconfig.cache
+/home/avss/WhatsappAPI_testing/WhatsAppDocSendTest/obj/Debug/net8.0/ref/WhatsAppDocSendTest.dll
